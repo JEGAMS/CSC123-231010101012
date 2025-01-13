@@ -1,0 +1,10 @@
+q2
+Open-source software is characterized by its publicly accessible source code, allowing anyone to view, modify,
+ and distribute it. It is typically released under a license that defines the terms for use and redistribution,
+ ensuring users have the freedom to adapt the software to their needs.
+
+1, Learning and Skill Development
+2, Collaboration and Community
+3, Personal Satisfaction and Recognition
+4, Solving Personal Problems
+5, Building a Professional Portfolio
