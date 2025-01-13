@@ -1,0 +1,48 @@
+Virtualization is the process of creating a virtual version of a physical resource, such as a server, storage device, or operating system. It allows multiple virtual instances to run on a single physical machine, sharing its resources,
+ while acting independently as if they were separate systemsFor example, virtualization enables the creation of multiple virtual machines (VMs) on a single physical server, 
+with each VM running its own operating system and applications, while sharing the underlying hardware resources like CPU, memory, and storag
+
+
+1 VMware vSphere: A popular platform for server virtualization that allows businesses to create and manage multiple virtual machines on a single physical server,
+ optimizing resource usage and improving scalability.
+
+
+2 Microsoft Hyper-V: A virtualization technology from Microsoft that enables users to create and manage
+ virtual machines on Windows servers, providing isolation, resource management, and support for running different operating systems.
+
+
+
+
+1 Resource Efficiency: Maximizes hardware utilization by running multiple virtual machines on a single physical server.
+
+2 Cost Savings: Reduces the need for physical hardware, cutting down on capital expenses and operational costs.
+
+3 Scalability: Easily scale virtual machines up or down to meet changing resource demands without requiring new hardware.
+
+4 Isolation: Ensures that each virtual machine is isolated, preventing issues in one VM from affecting others.
+
+5 Disaster Recovery: Simplifies backup and recovery processes by allowing virtual machines to be easily cloned, moved, or restored across different hardware.
+
+
+
+Git:
+Definition: Git is a distributed version control system that allows developers to track changes in source code during software development.
+Function: It manages the history of code changes, enabling multiple developers to collaborate on a project without interfering with each other's work. Git is used locally on a developer’s machine.
+Usage: Developers use Git to create repositories, commit changes, branch, merge, and manage the version history of code.
+Tool: Git is a command-line tool that can also be integrated with various GUIs (Graphical User Interfaces).
+GitHub:
+Definition: GitHub is a web-based platform that hosts Git repositories, providing a cloud-based interface for version control.
+Function: It offers remote storage for Git repositories and provides collaboration features like pull requests, issues tracking, and wikis.
+Usage: Developers push their local Git repositories to GitHub, enabling easy collaboration with others. It also facilitates code sharing, open-source contributions, and project management.
+Tool: GitHub is an online service that provides both a web interface and an API for interacting with Git repositories.
+
+You can rollback to any version.
+Different developers can work on the same files.
+You can track changes.
+
+
+
+
+
+
+
